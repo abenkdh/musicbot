@@ -1,0 +1,16 @@
+{
+
+  "name": "MusicBenk",
+  "description": "MusicBenk",
+  "version": "1.0.0",
+  "main": "JMusicBot.jar",
+  "scripts": {
+    "start": "java -Dnogui=true -jar JMusicBot.jar"
+  },
+
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+
+}

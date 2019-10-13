@@ -1,1 +1,1 @@
-web: java -Dnogui=true -jar JMusicBot.jar
+web: java -jar JMusicBot.jar
